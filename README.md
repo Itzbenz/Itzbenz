@@ -1,5 +1,5 @@
 Q: What are you doing\
-A: I force electron to do logic and math on a rock\
+A: I force electron to do logic and math on a rock, maybe some photon in future\
 Q: What project you've been done\
 A: [List Of Project](list-of-project-because-im-proud-enough.md)\
 Q: Are you a hacker\
