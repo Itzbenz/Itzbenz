@@ -1,5 +1,7 @@
 Q: What are you doing\
 A: I force electron to do logic and math on a rock\
+Q: What project you've been done\
+A: [List Of Project](list-of-project-because-im-proud-enough.md)\
 Q: Are you a hacker\
 A: ![image](https://user-images.githubusercontent.com/49940811/122752715-9497cf80-d291-11eb-9a63-1879426ef251.png)
 
