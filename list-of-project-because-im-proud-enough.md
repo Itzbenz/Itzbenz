@@ -1,6 +1,6 @@
 # My Project
 - [Discord Token Guesser](https://github.com/o7-Fire/discord-projects/tree/main/token-guess) - Python
-- [NodeNsfwJs](https://github.com/o7-Fire/NodeNsfwJSAPI) - NodeJS, Javascript, REST-API
+- [NodeNsfwJs](https://github.com/o7-Fire/NodeNsfwJSAPI) - NodeJS, Javascript, REST-API, Image Recognition
 - [Log4Shell](https://github.com/o7-Fire/Log4Shell) - Java, Security Exploit
 - [Mindustry-Ozone](https://github.com/o7-Fire/Ozone-Mindustry) - Java, Custom Game Client
 - [EmailValidator](https://github.com/Itzbenz/EmailValidator) - Java
