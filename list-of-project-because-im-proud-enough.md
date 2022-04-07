@@ -6,4 +6,3 @@
 - [EmailValidator](https://github.com/Itzbenz/EmailValidator) - Java
 # Co-op project
 - [o7Fire.me](https://github.com/o7-Fire/o7-Fire.github.io) - Bootstrap, HTML
-- 
