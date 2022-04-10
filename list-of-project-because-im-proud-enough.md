@@ -5,5 +5,6 @@
 - [Mindustry-Ozone](https://github.com/o7-Fire/Ozone-Mindustry) - Java, Custom Game Client
 - [EmailValidator](https://github.com/Itzbenz/EmailValidator) - Java
 - [JavaNSFWScrapper](https://github.com/Itzbenz/JavaNSFWSCrapper) - Java, REST-API, WebScrapping, Image Processing
-# Co-op project
+
+# Co project
 - [o7Fire.me](https://github.com/o7-Fire/o7-Fire.github.io) - Bootstrap, HTML
