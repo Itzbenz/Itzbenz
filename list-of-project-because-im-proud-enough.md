@@ -11,3 +11,8 @@
 
 # Co project
 - [o7Fire.me](https://github.com/o7-Fire/o7-Fire.github.io) - Bootstrap, HTML
+
+# Private
+- nike-management-vue-tauri - Javascript, Rust, Vue, Desktop App
+
+![image](https://user-images.githubusercontent.com/49940811/227666984-3a921783-f9ba-4cb0-b9e5-02c5412b5c24.png)
