@@ -3,7 +3,7 @@
 - [TokenBasedScript](https://github.com/Itzbenz/TokenBasedScript-DotNetAsp) - ASP .NET, MySql, REST-API, Stripe
 - [Discord Token Guesser](https://github.com/o7-Fire/discord-projects/tree/main/token-guess) - Python, REST-API
 - [NodeNsfwCDK](https://github.com/Itzbenz/node-nsfw-js-aws-cdk) - TypeScript, AWS
-- [NodeNsfwJs](https://github.com/o7-Fire/NodeNsfwJSAPI) - NodeJS, Javascript, REST-API, Image Recognition, Express.Js, Redis
+- [NodeNsfwJs](https://github.com/o7-Fire/NodeNsfwJSAPI) - NodeJS, Javascript, REST-API, Image Recognition, Express.Js, Redis, A.I
 - [Log4Shell](https://github.com/o7-Fire/Log4Shell) - Java, Security Exploit
 - [Mindustry-Ozone](https://github.com/o7-Fire/Ozone-Mindustry) - Java, Custom Game Client
 - [EmailValidator](https://github.com/Itzbenz/EmailValidator) - Java
