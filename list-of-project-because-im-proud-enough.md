@@ -1,4 +1,4 @@
-# My Project
+# My Project (Public)
 - [RelationshipNextJsNeo4jFlask](https://github.com/o7-Fire/relationship-neo4j-nextjs-flask) - Python, Flask, Next.Js, JavasScript, REST-API, Neo4j
 - [TokenBasedScript](https://github.com/Itzbenz/TokenBasedScript-DotNetAsp) - ASP .NET, MySql, REST-API, Stripe
 - [Discord Token Guesser](https://github.com/o7-Fire/discord-projects/tree/main/token-guess) - Python, REST-API
@@ -9,3 +9,8 @@
 - [EmailValidator](https://github.com/Itzbenz/EmailValidator) - Java
 - [JavaNSFWScrapper](https://github.com/Itzbenz/JavaNSFWSCrapper) - Java, REST-API, WebScrapping, Image Processing
 - [Mitmproxy Data Caching](https://github.com/Itzbenz/mitmproxy-data-cache-logger) - Python, HTTP, Caching, MongoDB
+
+# Private
+### nike-management-vue
+- Vue.Js, JavaScript, Rust, Tauri
+- ![image](https://github.com/Itzbenz/Itzbenz/assets/49940811/dc670fa7-af2b-4736-81b5-456d0bb70a1b)
