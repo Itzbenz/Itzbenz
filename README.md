@@ -1,8 +1,7 @@
 # List Of Project
 * [List Of Project](list-of-project.md)
 
-# 
-
+# Q&A
 Q: What are you doing\
 A: I force electron to do logic and math on a rock, maybe some photon in future\
 Q: What project you've been done\
