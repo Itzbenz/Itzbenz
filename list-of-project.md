@@ -15,8 +15,7 @@
 - Vue.Js, JavaScript, Rust, Tauri
 - ![image](https://github.com/Itzbenz/Itzbenz/assets/49940811/dc670fa7-af2b-4736-81b5-456d0bb70a1b)
 
-
-https://github.com/Itzbenz/Itzbenz/assets/49940811/d05996f9-8592-4482-9ee6-fca3e277c545
+- [Showcase](https://github.com/Itzbenz/Itzbenz/assets/49940811/d05996f9-8592-4482-9ee6-fca3e277c545)
 
 
 # Other/More Project
