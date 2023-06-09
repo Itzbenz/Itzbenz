@@ -14,6 +14,9 @@
 | [Mitmproxy Data Caching](https://github.com/Itzbenz/mitmproxy-data-cache-logger)           | Python, HTTP, Caching, MongoDB                                                      | Internet too slow? Want to know your internet footprint? Want to scrap images online while browsing? Say no more     |
 
 # Private
+| Name                      | Technologies                    | Description                                                                                                                                       | Showcase                                                                                                                                                                                                                                                |
+|---------------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nike Warehouse Management | Vue.Js, JavaScript, Rust, Tauri | Fully functional CRUD to manage data, export import with CSV, ability to upload data to server and download from server, encrypted local database | <details> <summary>Click me</summary> ![image](https://github.com/Itzbenz/Itzbenz/assets/49940811/dc670fa7-af2b-4736-81b5-456d0bb70a1b) [Showcase](https://github.com/Itzbenz/Itzbenz/assets/49940811/d05996f9-8592-4482-9ee6-fca3e277c545)  </details> |
 ## Nike Warehouse Management
 - Vue.Js, JavaScript, Rust, Tauri
 - Fully functional CRUD to manage data, export import with CSV, ability to upload data to server and download from server, encrypted local database
