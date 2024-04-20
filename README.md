@@ -1,7 +1,6 @@
 # About Me
 * [List Of Project](list-of-project.md)
 
-# 📊 GitHub Stats:
 
 # Q&A
 Q: What are you doing\
